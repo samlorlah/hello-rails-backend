@@ -134,7 +134,7 @@ Heroku (Paid)
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Aakash**
+👤 **Muyiwa Fawole**
 
 - GitHub: [@samlorlah](https://github.com/samlorlah)
 - Twitter: [@samlorlah](https://twitter.com/samlorlah)
