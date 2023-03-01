@@ -19,6 +19,7 @@
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [💻 Front-end Repository ](#-front-end-repository-)
+  - [💻 Front-end App](#-front-end-app)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
@@ -155,14 +156,18 @@ Heroku (Paid)
 <!-- FRONT-END REPOSITORY -->
 ## 💻 Front-end Repository <a name="frontend-repo"></a>
 
-- [Click Here](https://github.com/skyv26/hello-react-frontend)
+- [Click Here](https://github.com/samlorlah/hello-react-frontend)
+
+## 💻 Front-end App
+
+[Front End Live Demo](https://guileless-pudding-53f501.netlify.app)
 
 - Clone this repository to your desired folder:
 
 - Example command:
 
   ```
-    git clone https://github.com/skyv26/hello-react-frontend.git
+    git clone https://github.com/samlorlah/hello-react-frontend.git
     cd hello-react-frontend
   ```
 <!-- CONTRIBUTING -->
